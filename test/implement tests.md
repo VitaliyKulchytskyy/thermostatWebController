@@ -1,0 +1,4 @@
+- [x] Deserialization 
+- [x] Serialization
+- [x] UART
+- [ ] Thermoregulation algorithm
